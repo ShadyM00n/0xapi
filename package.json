@@ -1,0 +1,27 @@
+{
+  "name": "0xapi",
+  "version": "0.0.1",
+  "description": "is a lightweight library for quickly setting up APIs with Express.",
+  "main": "index.js",
+  "author": "ShadyMoon <shady.js>",
+  "license": "MIT",
+  "keywords": [
+    "express",
+    "api",
+    "authentication",
+    "lightweight",
+    "rate-limiter",
+    "wrapper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShadyM00n/0xapi"
+  },
+  "bugs": {
+    "url": "https://github.com/ShadyM00n/0xapi/issues"
+  },
+  "homepage": "https://github.com/ShadyM00n/0xapi#readme",
+  "dependencies": {
+    "express": "^0.0.1-security"
+  }
+}
